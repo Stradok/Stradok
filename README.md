@@ -7,7 +7,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=33FF00&background=0A0A0A00&center=true&vCenter=true&width=700&height=65&lines=AMMAN+%2F%2F+%40STRADOK" alt="AMMAN // @STRADOK" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=1000&color=33FF00&background=0A0A0A00&center=true&vCenter=true&multiline=true&width=700&height=70&lines=AI+Engineer+%26+Co-Founder+%40+Agents+Limited;GenAI+%C2%B7+Computer+Vision+%C2%B7+Local-First+LLMs" alt="subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2000&pause=1000&color=33FF00&background=0A0A0A00&center=true&vCenter=true&multiline=true&width=700&height=70&lines=AI+Engineer;GenAI+%C2%B7+Computer+Vision+%C2%B7+Local-First+LLMs" alt="subtitle" />
 
 </div>
 
@@ -20,10 +20,9 @@ amman@stradok:~$ whoami --verbose
 ```
 ┌─────────────────────────────────────────────────────────┐
 │  USER     ::  Amman                                     │
-│  ROLE     ::  AI Engineer & Co-Founder                  │
-│  ORG      ::  Agents Limited  [agentslimited.com]       │
+│  ROLE     ::  AI Engineer                                 │
 │  FOCUS    ::  GenAI · Computer Vision · Local LLMs      │
-│  STATUS   ::  [BUILDING] CounterVision                  │
+│  STATUS   ::  [OPEN TO WORK] — AI Engineer              │
 │  MODE     ::  Modular · Open-Source · Local-First       │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -65,9 +64,6 @@ amman@stradok:~$ cat projects.log | grep -E "BUILDING|ACTIVE|RESEARCH"
 ╔══════════════════════════════════════════════════════════════════╗
 ║  PROJECT LOG                                                     ║
 ╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  [BUILDING]  CounterVision    Enterprise CV platform             ║
-║              └─ Agents Limited · computer vision · real-time     ║
 ║                                                                  ║
 ║  [BUILDING]  JANOS            ████████████ [REDACTED]            ║
 ║                                                                  ║
@@ -112,7 +108,6 @@ amman@stradok:~$ ping connect --all
 PING connect (1 packets transmitted)
 
 >  EMAIL   ::  khawajaamman@gmail.com
->  WEB     ::  agentslimited.com
 >  GITHUB  ::  github.com/Stradok
 
 [OK] — Open to work & collaboration
