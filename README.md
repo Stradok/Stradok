@@ -20,7 +20,7 @@ amman@stradok:~$ whoami --verbose
 ```
 ┌─────────────────────────────────────────────────────────┐
 │  USER     ::  Amman                                     │
-│  ROLE     ::  AI Engineer                                 │
+│  ROLE     ::  AI Engineer                               │
 │  FOCUS    ::  GenAI · Computer Vision · Local LLMs      │
 │  STATUS   ::  [OPEN TO WORK] — AI Engineer              │
 │  MODE     ::  Modular · Open-Source · Local-First       │
