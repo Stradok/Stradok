@@ -21,6 +21,7 @@ amman@stradok:~$ whoami --verbose
 ┌─────────────────────────────────────────────────────────┐
 │  USER     ::  Amman                                     │
 │  ROLE     ::  AI Engineer                               │
+│  FOUNDER  ::  Flamingo · Reach                          │
 │  FOCUS    ::  GenAI · Computer Vision · Local LLMs      │
 │  STATUS   ::  [OPEN TO WORK] — AI Engineer              │
 │  MODE     ::  Modular · Open-Source · Local-First       │
@@ -53,6 +54,8 @@ amman@stradok:~$ ls ./stack --group-by=domain
 ![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=33ff00&color=1f521f)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=33ff00&color=1f521f)
 ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=33ff00&color=1f521f)
+![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=flat-square&logo=vercel&logoColor=33ff00&color=1f521f)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-0a0a0a?style=flat-square&logo=cloudflare&logoColor=33ff00&color=1f521f)
 
 ---
 
@@ -69,6 +72,11 @@ amman@stradok:~$ cat projects.log | grep -E "BUILDING|ACTIVE|RESEARCH"
 ║                                                                  ║
 ║  [BUILDING]  Code Buddy       Local coding agent                 ║
 ║              └─ Ollama · OpenRouter · fully offline              ║
+║                                                                  ║
+║  [BUILDING]  Flamingo         Consent-first AI meeting copilot   ║
+║              └─ founder · in development · TypeScript · Next.js  ║
+║  [ACTIVE]    Reach            Real-time team collaboration app   ║
+║              └─ founder · live · reach-six-ruby.vercel.app       ║
 ║                                                                  ║
 ║  [ACTIVE]    LaunchMind       AI product launch assistant        ║
 ║  [ACTIVE]    CODE-AI          AI-powered code tooling            ║
